@@ -25,7 +25,7 @@
 
 <p align="center">
   <samp>
-    [ <a href="README.md">English</a> ] &nbsp;&nbsp;|&nbsp;&nbsp;
+    [ <a href="/README.md">English</a> ] &nbsp;&nbsp;|&nbsp;&nbsp;
     [ 中文 ]
   </samp>
 </p>
