@@ -47,13 +47,19 @@
 
 ### 🔭 项目星图
 
-- **🖥️ 系统** — [NixOS](https://nixos.org)  
+- **🖥️ 系统** — [NixOS](https://nixos.org)
+
+- **🖼️ 桌面** — [Niri](https://github.com/YaLTeR/niri)
 
 - **⚙️ 语言** — [Rust](https://www.rust-lang.org) · [Zig](https://ziglang.org)  
 
 - **✍️ 编辑器** — [Helix](https://helix-editor.com)  
 
-- **🐚 Shell** — [Nushell](https://www.nushell.sh)  
+- **🐚 Shell** — [Nushell](https://www.nushell.sh)
+
+- **🖥️ 终端** — [Ghostty](https://ghostty.org/)
+
+- **📁 文件系统** — [Bcachefs](https://bcachefs.org/)
 
 ---
 
