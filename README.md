@@ -4,10 +4,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/nova-logo-dark.svg"
+      srcset="/assets/nova-logo-dark.svg"
     >
     <img
-      src="./assets/nova-logo-light.svg"
+      src="/assets/nova-logo-light.svg"
       alt="awesome-nova"
       width="80"
     >
