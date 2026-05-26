@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <strong>The old world collapses. A nova arises.</strong>
+  <strong>旧世界崩塌，新星降临。</strong>
 </p>
 
 <p align="center">
@@ -30,35 +30,35 @@
   </samp>
 </p>
 
-**awesome-nova** is not just another "awesome" list.  
-It is a *postmodern technological covenant*, cataloging groundbreaking projects that are tearing apart old paradigms and directly defining the next decade.
+**awesome-nova** 不是又一份“awesome”列表。  
+它是一本 *后现代技术圣约*，收录那些正在撕裂旧范式、直接定义下一个十年的开创性项目。
 
-If you find the traditional toolchain boring, sluggish, and predictable,  
-then welcome to the postmodern.
+如果你觉得传统工具链已经乏味、迟钝、可预测，  
+那么欢迎来到后现代。
 
 ---
 
-### 🔭 Project Star Chart
+### 🔭 项目星图
 
-- **🖥️ System** — [NixOS](https://nixos.org)  
+- **🖥️ 系统** — [NixOS](https://nixos.org)  
 
-- **⚙️ Language** — [Rust](https://www.rust-lang.org) · [Zig](https://ziglang.org)  
+- **⚙️ 语言** — [Rust](https://www.rust-lang.org) · [Zig](https://ziglang.org)  
 
-- **✍️ Editor** — [Helix](https://helix-editor.com)  
+- **✍️ 编辑器** — [Helix](https://helix-editor.com)  
 
 - **🐚 Shell** — [Nushell](https://www.nushell.sh)  
 
 ---
 
-### 🌌 Join the Constellation
+### 🌌 加入星群
 
-All entries must satisfy one ironclad rule:  
-**Pioneering, disruptive, futuristic — the very essence of the "postmodern."**
+所有收录都必须满足一条铁律：  
+**开创性、颠覆性、未来感——即“后现代”本质。**
 
-If a project makes your heart race and reorganizes your thinking, feel free to submit a PR.
+如果某个项目让你心跳加速、思维重组，欢迎提交 PR 。
 
 ---
 
 <p align="center">
-  <sub>Maintained through the night by the postmodern navigator · <a href="https://github.com/QcN3ep/awesome-nova">awesome-nova</a></sub>
+  <sub>由后现代领航员守夜维护 · <a href="https://github.com/QcN3ep/awesome-nova">awesome-nova</a></sub>
 </p>
