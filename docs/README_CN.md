@@ -1,10 +1,17 @@
 # 🌌 Awesome Nova
 
 <p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QcN3ep/awesome-nova/main/assets/nova-logo.svg">
-        <img src="https://raw.githubusercontent.com/QcN3ep/awesome-nova/main/docs/assets/nova-logo.svg" alt="awesome-nova" width="80">
-    </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="/assets/nova-logo-dark.svg"
+    >
+    <img
+      src="/assets/nova-logo-light.svg"
+      alt="awesome-nova"
+      width="80"
+    >
+  </picture>
 </p>
 
 <p align="center">
@@ -40,13 +47,19 @@
 
 ### 🔭 项目星图
 
-- **🖥️ 系统** — [NixOS](https://nixos.org)  
+- **🖥️ 系统** — [NixOS](https://nixos.org)
+
+- **🖼️ 桌面** — [Niri](https://github.com/YaLTeR/niri)
 
 - **⚙️ 语言** — [Rust](https://www.rust-lang.org) · [Zig](https://ziglang.org)  
 
 - **✍️ 编辑器** — [Helix](https://helix-editor.com)  
 
-- **🐚 Shell** — [Nushell](https://www.nushell.sh)  
+- **🐚 Shell** — [Nushell](https://www.nushell.sh)
+
+- **🖥️ 终端** — [Ghostty](https://ghostty.org/)
+
+- **📁 文件系统** — [Bcachefs](https://bcachefs.org/)
 
 ---
 

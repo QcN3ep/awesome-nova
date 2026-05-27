@@ -1,10 +1,17 @@
 # 🌌 Awesome Nova
 
 <p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QcN3ep/awesome-nova/main/assets/nova-logo.svg">
-        <img src="https://raw.githubusercontent.com/QcN3ep/awesome-nova/main/docs/assets/nova-logo.svg" alt="awesome-nova" width="80">
-    </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="/assets/nova-logo-dark.svg"
+    >
+    <img
+      src="/assets/nova-logo-light.svg"
+      alt="awesome-nova"
+      width="80"
+    >
+  </picture>
 </p>
 
 <p align="center">
